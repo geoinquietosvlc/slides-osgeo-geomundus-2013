@@ -11,3 +11,6 @@ development infrastructure, OSGeo is a big community of developers,
 power users, documenters, translators, advocates, project and company
 managers and enthusiasts of the geospatial open source software.
 
+Slides available at http://geoinquietosvlc.github.io/slides-osgeo-geomundus-2013
+
+More info about the GeoMundus conference at http://geomundus.org
